@@ -1,0 +1,5 @@
+tensorflow-intel
+opencv-python 
+gdown
+gspread
+scikit-learn
